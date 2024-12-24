@@ -1,3 +1,0 @@
-
-csv==python-csv # Необходимый модуль для работы с CSV файлами
-operator==python-operator # Модуль для использования функции itemgetter
