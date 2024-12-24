@@ -21,6 +21,7 @@ pip install -r requirements.txt
 Запустите основной скрипт price_machine.py. Он загрузит данные из прайс-листов. 
 Интерфейс для поиска реализован через консоль, циклически получая информацию от пользователя.
 Предусмотрен вывод массива данных в текстовый файл в формате html.
+
 ![Screenshot_2](https://github.com/user-attachments/assets/e8e8bc02-4bc3-4ae4-8b76-4a755a0f9a8a)
 ![Screenshot_3](https://github.com/user-attachments/assets/499f8f02-dd13-4ca7-8cd9-3803e99750d2)
 
